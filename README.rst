@@ -11,31 +11,320 @@ Look how easy it is to use:
     project.do_stuff()
 
 Features
---------
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://nhathuocphuongthanh.com/
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dat-hang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/lien-he
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/cam-nang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/search
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/danh-muc/thuoc
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/danh-muc/my-pham
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/danh-muc/thuc-pham-chuc-nang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/danh-muc/dinh-duong
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-tien-dinh-khang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-1
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-2
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-zawa
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-bonihappy
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-bonlutin-500mg
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-thymomodulin
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/nano-bac-plus
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-naturenz
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-enat-400
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/phong-te-thap-ba-giang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thong-xoang-tan
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-3
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-4
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-5
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-6
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-7
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-8
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-9
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-tan-hung
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-quan-10
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/nha-thuoc-minh-chau
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/ich-tam-khang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-ampelop
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/nha-thuoc-ngoc-tuyet
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-11
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-quan-12
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/phong-kham-san-phu-khoa-43-nguyen-khang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/phong-kham-125-thai-thinh
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-hoat-huyet-nhat-nhat
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/phu-bi-khang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-buu-dien
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/trung-tam-y-te-quan-tan-binh
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-ha-thanh
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-mat-quoc-te-viet-nga-tp-hcm
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-the-thao-viet-nam
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/phong-kham-dong-y-nguyen-huu-toan
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-van-hanh
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-trung-tam-an-giang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-ba-ria
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-bac-giang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-bac-kan
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-bac-lieu
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-bac-ninh
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-nguyen-dinh-chieu-ben-tre
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-binh-dinh
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-binh-duong
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-tinh-binh-phuoc
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-tinh-binh-thuan
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-ca-mau
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-tinh-cao-bang
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-tinh-dak-lak
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/benh-vien-da-khoa-tinh-dien-bien
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/phong-kham-benh-vien-quoc-te-dr-khoa
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-lahm
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/khuong-thao-dan
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/cang-ha-noi
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/cang-hai-phong
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/bot-ngu-coc-beone
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/an-phu-khang-an-chau
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/dia-chi/bao-hiem-xa-hoi-quan-tan-binh
+      
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/cam-nang/15-bai-tap-giup-tang-chieu-cao
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/cam-nang/10-tac-hai-cua-thuc-khuya-xem-dien-thoai
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/cam-nang/4-cach-giam-can-bang-chanh-nhanh-tai-nha-giam-2-3kg-tuan
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/cam-nang/top-12-thuoc-tang-can-an-toan
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/thuoc-japan-tengsu-nhat-ban-co-tot-khong-gia-bao-nhieu-tien
+      </loc>
+   </url>
+   <url>
+      <loc>https://nhathuocphuongthanh.com/san-pham/cerecaps
+      </loc>
+   </url>
 
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+</urlset>
